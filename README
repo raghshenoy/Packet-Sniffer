@@ -1,0 +1,12 @@
+READ-ME
+#######################################################################################
+
+-> The file "userpass.auth" has the username and password 
+   It contains the username and password in the format <username> <password>.
+   Refer to this file to get the username/password.
+   Use the username/password pair for authentication to use the PacketSniffer.
+   
+-> Log file will be created in C: drive as a file "sniffer.txt". Check the log file to 
+   see the traces of the packets captured.
+
+#######################################################################################
